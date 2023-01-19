@@ -1,4 +1,6 @@
 README MP3: Crazy Eights
+
+This program runs a simulation of a crazy eights game, and at the end lists out the statistics of the game. 
 1. Brynn McGovern
    2370579
    bmcgovern@chapman.edu
