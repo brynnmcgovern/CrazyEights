@@ -1,6 +1,6 @@
 README MP3: Crazy Eights
 
-This program runs a simulation of a crazy eights game, and at the end lists out the statistics of the game. 
+This program runs a simulation of a crazy eights game against the computer. 
 1. Brynn McGovern
    2370579
    bmcgovern@chapman.edu
@@ -8,26 +8,21 @@ This program runs a simulation of a crazy eights game, and at the end lists out 
    MP3: Crazy Eights
 
 2. card.java
-   deck.java
+   player_actions.java
    player.java
    game.java
-   simulation.java
+   rules.java
 
 3. N/A
 
 4. N/A
 
 5. javac card.java
-   java card
 
-   javac deck.java
-   java deck
+   javac rules.java
 
    javac player.java
-   java player
 
    javac game.java
    java game
 
-   javac simulation.java
-   java simulation
